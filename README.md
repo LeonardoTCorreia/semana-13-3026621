@@ -19,3 +19,6 @@ Após corrigir o erro e reenviar o código, o pipeline é reexecutado e confirma
 ---
 
 ![CI](https://github.com/LeonardoTCorreia/semana-13-3026621/actions/workflows/python-package.yml/badge.svg)
+---
+<img width="692" height="520" alt="image" src="https://github.com/user-attachments/assets/39dd8742-92d7-4c0d-9abb-42c70fbd99e6" />
+
